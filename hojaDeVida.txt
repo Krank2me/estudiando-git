@@ -1,4 +1,4 @@
 Nombre completo: Alejandro Garces
-Edad: 30
+Edad: 32
 Profesión: Tecnico de Sistemas
 Cargo: soporte tecnico
