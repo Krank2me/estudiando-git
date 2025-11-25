@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Nombre completo: Didinzon Valderrama Arboleda
 Edad: 30
 Profesión: Docente 
 Cargo: Docente de aula. estudiante
+=======
+
+Nombre Isai zabala machado
+Edad: 17
+Profesión: Estudiante Ingenieria en sistemas
+Cargo: Estudiante
+>>>>>>> origin/feature/agregar-datos-personales
