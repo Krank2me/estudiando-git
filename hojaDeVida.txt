@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nombre completo: Oscar David Somerson
 Edad: 41
 Profesión:Ingeniero Electronico
@@ -8,6 +9,12 @@ prueba
 =======
 <<<<<<< HEAD
 =======
+=======
+Nombre completo: Alejandro Garces
+Edad: 31
+Profesión: Tecnico de Sistemas
+Cargo: soporte tecnico
+>>>>>>> 9d25c05cfa865da9cd7f4b6f4abbc0806820bd5a
 
 Nombre completo: Maria Camila Robledo Zapata
 Edad: 22
@@ -27,7 +34,11 @@ Edad: 17
 Profesión: Estudiante Ingenieria en sistemas
 Cargo: Estudiante
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/feature/agregar-datos-personales
 >>>>>>> fb8f3ca6dede5b0617e3b83aa3bb27779b712500
 =======
 >>>>>>> cd58a4ae07ba1175c50208aa89a943e3abf52c28
+=======
+
+>>>>>>> 9d25c05cfa865da9cd7f4b6f4abbc0806820bd5a
