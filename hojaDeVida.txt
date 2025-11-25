@@ -2,3 +2,13 @@ Nombre completo: Johnnatan Alexander Benitez Velasquez
 Edad: 42
 Profesión: Student
 Cargo: Fullstack Junior 
+Nombre completo: Didinzon Valderrama Arboleda
+Edad: 30
+Profesión: Docente 
+Cargo: Docente de aula. estudiante
+
+Nombre Isai zabala machado
+Edad: 17
+Profesión: Estudiante Ingenieria en sistemas
+Cargo: Estudiante
+
