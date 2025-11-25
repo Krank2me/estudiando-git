@@ -1,4 +1,4 @@
-Nombre completo: Frank Alejandro Betancur
-Edad: 39
-Profesión: Ingeniero de Sistemas
-Cargo: Fullstack Engineer - Docente
+Nombre completo: Johnnatan Alexander Benitez Velasquez
+Edad: 42
+Profesión: Student
+Cargo: Fullstack Junior 
