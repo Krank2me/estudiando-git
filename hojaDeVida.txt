@@ -1,4 +1,4 @@
-Nombre completo: Frank Alejandro Betancur
-Edad: 39
-Profesión: Ingeniero de Sistemas
-Cargo: Fullstack Engineer - Docente
+Nombre completo: Alejandro Garces
+Edad: 31
+Profesión: Tecnico de Sistemas
+Cargo: Tecnico de soporte
