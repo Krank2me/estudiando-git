@@ -1,9 +1,5 @@
-Nombre completo: Frank Alejandro Betancur
-Edad: 39
-Profesión: Ingeniero de Sistemas
-Cargo: Fullstack Engineer - Docente
 
-Nombre completo: Oscar David Somerson
-Edad: 41
-Profesión:Ingeniero Electronico
-Cargo: Soporte Nivel 2 Bancolombia
+Nombre Isai zabala machado
+Edad: 17
+Profesión: Estudiante Ingenieria en sistemas
+Cargo: Estudiante
