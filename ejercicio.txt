@@ -1,0 +1,22 @@
+Parte 1:
+Deben ir en local storage:
+    color favorito para el fondo
+    lista de peliculas favoritas
+    volumen de reproducción preferido
+
+No deben ir en local storage:
+    Número tarjeta de crédito
+    historial medico
+
+Parte 2: 
+Aplicación: App fitness
+Datos: Ejercicios, intensidad
+Mejora en experiencia: El usuario ya tendría el progreso actualizado
+
+Aplicación: Fondos de pantalla
+Datos: Imagenes, widgets, temas preferidos
+Mejora en experiencia: El usuario no tendría que volver a escoger sus temas o gustos preferidos. Y la app le podría recomendar los que mas se le acomoden.
+
+Aplicación: App para trackear peliculas o series
+Datos: Listas que clasifiquen las peliculas en vistas, o pospuestas. Y gustos en cuanto al genero de las peliculas o series.
+Mejora en experiencia: La app te podría sugerir nuevas peliculas, y avisar si alguna ya está en plataforma de streaming
