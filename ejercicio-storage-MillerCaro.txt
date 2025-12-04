@@ -1,0 +1,18 @@
+Parte 1: ¿Guardar o no guardar?
+
+color para el fondo	||	Guardar en el local storage
+Número de tarjeta 	||	No guardar en local storage	
+Lista de peliculas	||	Guardar en el local storage
+Historial médico	||	No guardar en local storage	
+Volumen de reproducción	||	Guardar en el local storage
+
+
+Parte 2: Propón 3 casos de uso
+1. ¿Qué aplicación o web?
+	Una tienda de ropa
+
+2.¿Qué datos guardarías?
+	Guardaria los productos del carrito
+
+3.¿Por qué mejora la experiencia del usuario?
+	Mejora la experiencia ya que puede sugerir productos de la misma categoría, colores y tallas.
