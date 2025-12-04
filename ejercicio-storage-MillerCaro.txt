@@ -8,11 +8,11 @@ Volumen de reproducción	||	Guardar en el local storage
 
 
 Parte 2: Propón 3 casos de uso
-1. ¿Qué aplicación o web?
-	Una tienda de ropa
+	1. Una tienda de ropa que guardaria los productos del carrito para que el usuario siga navegando y agregando productos
 
-2.¿Qué datos guardarías?
-	Guardaria los productos del carrito
+	2. Un navegador que guarde las ubicaciones vistas y sugiera lugares similares y como llegar, esto para mejorar y optimizar tiempos de busqueda.
 
-3.¿Por qué mejora la experiencia del usuario?
-	Mejora la experiencia ya que puede sugerir productos de la misma categoría, colores y tallas.
+	3. Aplicacion de comidas rapidas que deacuerdo a los productos vistos, la aplicación le sugiera comidas similares y en promociones.
+
+
+
