@@ -1,0 +1,31 @@
+//parte 1
+1.Tu color favorito = Guardar
+2.Número de tarjeta de crédito = No guardar
+3.Lista de películas favoritas = Guardar
+4.Historial médico = No guardar
+5.Volumen de reproducción preferido = Guardar
+
+
+//Parte 2
+1.¿Qué aplicación o web?
+
+2.¿qué datos guardarías?
+
+3.¿Por qué mejora la experiencia del usuario?
+
+
+
+1. Una App de tienda virtual como ropa o tecnología que guarde los productos añadidos al carrito que
+tenga preferencias de visualización en modo oscuro, idioma y orden de precios.
+Porque si el usuario cierra la página y vuelve, sigue viendo su carrito y sus preferencias 
+sin necesidad de iniciar sesión. Se siente más fluido y conveniente.
+
+
+2. Una web de cursos que guarde la última lección vista, el progreso del usuario y una lista 
+de cursos favoritos para que el estudiante puede continuar exactamente donde se quedó, 
+incluso sin iniciar sesión. Esto motiva y evita perder tiempo buscando su avance.
+
+3. Una web de noticias con secciones personalizables que guarde las categorías favoritas como
+deportes, tecnología y farándula, también los artículos guardados para leer después y una 
+configuración de tamaño de letra para que la web se adapte a los intereses y hábitos. 
+Cada vez que entre, ve primero lo que a él le gusta sin configurarlo de nuevo.
