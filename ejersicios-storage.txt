@@ -1,0 +1,40 @@
+PARTE 1: GUARDAR O NO GUARDAR
+
+* Tu color Favorito para el fondo: GUARDAR
+* Numero de tarjeta de Credito: NO GUARDAR
+* Lista de Peliculas Favoritas: GUARDAR
+* Historial Medico: NO GUARDAR
+* Volumen de Reproduccion Preferido: GUARDAR
+
+
+PARTE 2: PROPON 3 CASOS DE USO
+
+CASO: 1
+1. Que aplicacion Web?
+R/ Spotify Web
+
+2. Que datos Guardarias?
+R/ Playlist que el usuario ha creado
+
+3. Por que mejora la experiencia del usuario?
+R/  por que guarda el tipo de musica que el usuario mismo selecciona o mas escucha
+
+CASO: 2
+1. Que aplicacion Web?
+R/ Youtube
+
+2. Que datos Guardarias?
+R/  videos o shorts de mi interes
+
+3. Por que mejora la experiencia del usuario?
+R/  por que permite tener una lista perzonalizada de videos y en base a ello el algoritmo recomienda videos similares
+
+CASO:3
+1. Que aplicacion Web?
+R/ Netflix
+
+2. Que datos Guardarias? 
+R/  Series o Peliculas
+
+3.Por que mejora la experiencia del usuario?
+R/  por que me permite seguir viendo la serie o pelicula independientemente de en que momento te quedes
