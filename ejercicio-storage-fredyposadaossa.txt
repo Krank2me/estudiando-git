@@ -1,0 +1,12 @@
+guardar o no guardar
+ tu color favorito de fondo    si
+ numero de tarjeta de credito  no
+ lista de peliculas favoritas  si
+ historial medico              no
+ volumen de reroduccion preferido  si
+
+
+3 casos de uso 
+ 1 en una red social guardar el cambio de preferencia de tema dark o light mejoraria al cargar el cambio de tema al no requerir comfirmacion 
+ 2 carrito de compras guardar los ids de los item seleccionados si el usuario sale e ingresa de nuevo mejora la velocidad en la compras
+ 3 datos de un formulario guardados como borrador por si se debe recargar el formulario recuerde muchos de los datos ingresados
