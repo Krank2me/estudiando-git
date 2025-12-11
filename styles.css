@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: violet;
+    font-family: "Bitcount Grid Double", system-ui;
+    margin: 30px auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.titulo {
+    color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lista {
+    font-size: 20px;
+}
+
+.enlace {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
+
+.header {
+    width: 100%;
+    background-color: navy;
+    margin: 30px auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px;
+}
