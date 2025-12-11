@@ -1,0 +1,20 @@
+ejercicio 1
+tu color favorito: guardar
+numero de tarjeta de credito: no guardar 
+lista de peliculas favoritas: guardar 
+historial medico: no guardar 
+volumen de reproduccion preferido : guardar 
+
+ejerccio 2
+1)Una plataforma web de Cursos Online
+2)El progreso del usuario en la lección actual (ej: minuto exacto donde detuvo el video)
+3) si el usuario se desconecta, al regresar , el video se reanuda donde se quedo
+
+
+1)Un sitio web de Comercio Electrónico
+2)El contenido del Carrito de Compras antes de iniciar sesión o sin la intención inmediata de compra
+3)si el usuario añade productos al carrito, y luego cierra seccion , al volver el carrito no esta vacio
+
+1)Una aplicación o versión web de una plataforma de Videos Cortos
+2)El último video que el usuario estaba viendo antes de cerrar la aplicación o cambiar de pestaña
+3)si el usuario elimina la pestaña, al volver se carga inmediatame te el video que estaba viendo 
