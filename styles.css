@@ -11,35 +11,22 @@ body {
 }
 
 .titulo {
-    color: red;
-    font-size: 40px;
-}
-
-.parrafo {
-    color: blueviolet;
-    font-size: 20px;
-    margin: 30px auto;
-    width: 50%;
-    text-align: justify;
-}
-
-.subrayado {
-    text-decoration: underline;
-    color:blue
+    color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .lista {
-    color: black;
     font-size: 20px;
 }
 
 .enlace {
     display: block;
     margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     color: blue;
-    text-decoration: none;
 }
 
 .header {
