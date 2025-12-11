@@ -1,0 +1,79 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: violet;
+    font-family: "Bitcount Grid Double", system-ui;
+    margin: 30px auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.titulo {
+    color: red;
+    font-size: 40px;
+}
+
+.parrafo {
+    color: blueviolet;
+    font-size: 20px;
+    margin: 30px auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.subrayado {
+    text-decoration: underline;
+    color:blue
+}
+
+.lista {
+    color: black;
+    font-size: 20px;
+}
+
+.enlace {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+}
+
+.tabla {
+    color: green;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 20px;
+    padding: 50px;
+}
+
+.th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}  
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    flex-direction: column;
+}   
+
+.header {
+    width: 100%;
+    background-color: navy;
+    margin: 30px auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px;
+}
