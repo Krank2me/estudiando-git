@@ -1,0 +1,65 @@
+body{
+    background-image: url(/img/binary-purple-color-abstract-box-pattern-dark-technology-background-free-video.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.encabezado{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-size: 55px;
+    margin-top: 30px;
+
+}
+
+.title{
+    color: #33FFFF;
+    font-family: 'Courier New', monospace;
+    font-size: 38px;
+    margin-left: 20px;
+}
+
+.texto{
+    color: #FF9933;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.hobbies{
+    color: #33FF00;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+}
+
+.final{
+    color: #33FFFF;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+a {
+    color: #58f31b;
+    font-family: 'Courier New', monospace;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff33ff;
+    text-decoration: underline;
+}
+button{
+    background-color: #4133ff;
+    font-family: 'Courier New', monospace;
+    font-size: 30px;
+    border-radius: 12px;
+    cursor: pointer;
+    
+}
+
+footer {
+    text-align: center;
+}
