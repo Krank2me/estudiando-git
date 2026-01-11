@@ -1,0 +1,20 @@
+body {
+    /* Color de fondo azul claro */
+    background-color: lightblue;
+    
+    /* Centra todo el texto y elementos dentro del cuerpo */
+    text-align: center;
+    
+    /* Tipografía más limpia (opcional, pero se ve mejor) */
+    font-family: Arial, sans-serif;
+    
+    /* Elimina márgenes extraños */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Un pequeño truco para que la lista de hobbies se vea centrada y bonita */
+ul {
+    display: inline-block; /* Hace que la lista se comporte como bloque centrado */
+    text-align: left;      /* Alinea los textos de la lista a la izquierda para leer mejor */
+}
