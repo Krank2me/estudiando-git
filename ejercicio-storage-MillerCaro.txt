@@ -1,0 +1,18 @@
+Parte 1: ¿Guardar o no guardar?
+
+color para el fondo	||	Guardar en el local storage
+Número de tarjeta 	||	No guardar en local storage	
+Lista de peliculas	||	Guardar en el local storage
+Historial médico	||	No guardar en local storage	
+Volumen de reproducción	||	Guardar en el local storage
+
+
+Parte 2: Propón 3 casos de uso
+	1. Una tienda de ropa que guardaria los productos del carrito para que el usuario siga navegando y agregando productos
+
+	2. Un navegador que guarde las ubicaciones vistas y sugiera lugares similares y como llegar, esto para mejorar y optimizar tiempos de busqueda.
+
+	3. Aplicacion de comidas rapidas que deacuerdo a los productos vistos, la aplicación le sugiera comidas similares y en promociones.
+
+
+
